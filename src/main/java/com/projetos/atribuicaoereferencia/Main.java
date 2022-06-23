@@ -1,4 +1,4 @@
-package com.projeto.atribuicaoereferencia;
+package com.projetos.atribuicaoereferencia;
 
 public class Main {
     public static void main(String[] args) {

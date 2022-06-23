@@ -1,4 +1,4 @@
-package com.projeto.refactoringno;
+package com.projetos.refactoringno;
 
 public class Main {
     public static void main(String[] args) {

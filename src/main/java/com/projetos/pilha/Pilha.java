@@ -1,4 +1,4 @@
-package com.projeto.pilha;
+package com.projetos.pilha;
 
 public class Pilha {
 

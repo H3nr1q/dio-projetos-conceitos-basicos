@@ -1,4 +1,4 @@
-package com.projeto.fila;
+package com.projetos.fila;
 
 public class FilaRefatorada<T> {
 

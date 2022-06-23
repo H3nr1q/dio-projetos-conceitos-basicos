@@ -1,4 +1,4 @@
-package com.projeto.listaencadeada;
+package com.projetos.listaencadeada;
 
 public class ListaEncadeada<T> {
     No<T> referenciaEntrada;

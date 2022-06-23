@@ -1,4 +1,4 @@
-package com.projeto.listaencadeada;
+package com.projetos.listaencadeada;
 
 public class Main {
     public static void main(String[] args) {

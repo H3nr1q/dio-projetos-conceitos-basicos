@@ -1,23 +1,23 @@
-package com.projeto.no;
+package com.projetos.refactoringno;
 
-public class No {
-    private String conteudo;
+public class No<T> {
+    private T conteudo;
     private No proximoNo;
 
-    public No(String conteudo) {
+    public No(T conteudo) {
         this.proximoNo = null;
         this.conteudo = conteudo;
     }
 
-    public String getConteudo() {
+    public T getConteudo() {
         return conteudo;
     }
 
-    public void setConteudo(String conteudo) {
+    public void setConteudo(T conteudo) {
         this.conteudo = conteudo;
     }
 
-    public No getProximoNo() {
+    public No<T> getProximoNo() {
         return proximoNo;
     }
 
